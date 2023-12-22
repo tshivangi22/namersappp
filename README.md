@@ -1,2 +1,2 @@
-# namerappp.namersappp
+# namersappp
 winter project
